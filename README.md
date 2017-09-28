@@ -3,6 +3,8 @@ Game application on js to demonstrate the use of animation when drawing graphics
 
 Игровое приложение на js для демонстрации использования анимации при рисовании графики разными способами. Приложение поддерживает мобильные устройства.
 
+![Скрин приложения](jsSnake.png)
+
 ## Описание
 
 Анимация построена с использованием стандарта [Animation timing](https://www.w3.org/TR/animation-timing/) (`requestAnimationFrame`). Отрисовка изображения может выполняться различными способами (метод анимации задается в параметрах настройки):
